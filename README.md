@@ -1,0 +1,1 @@
+I wanted to learn c++ and thought Advent of Code would be a good way to do it while solving fun problems.  This code represents my efforts to solve each day.  Remember, I am a complete beginner with c++, and actually programming in general.
